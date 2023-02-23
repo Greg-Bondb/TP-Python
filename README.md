@@ -1,6 +1,6 @@
 # 📢 Python
 
-Plusieurs exercices pour découvrir le langage python à travers différents labos.
+Several exercises to discover the python language through different labs.
 
 ## 💻 Technologies used
 <div>
